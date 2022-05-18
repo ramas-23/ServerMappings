@@ -1405,5 +1405,17 @@
         "addresses": [
             "ymzc.pro"
         ]
+    },
+    {
+        "id": "battlerip",
+        "name": "Battle Network",
+        "addresses": [
+            "battle.rip",
+            "euuhc1.battle.rip",
+            "nauhc1.battle.rip",
+            "nulledcode.battle.rip",
+            "na.battle.rip",
+            "eu.battle.rip"
+        ]
     }
 ]
