@@ -1482,6 +1482,13 @@
         ]
     },
     {
+        "id": "cratermc",
+        "name": "Cratermc",
+        "addresses": [
+            "cratermc.com"
+        ]
+    },    
+    {
         "id": "kantay",
         "name": "Kantay Network",
         "addresses": [
